@@ -13,3 +13,10 @@ You can also spin up a free Heroku dyno to test it out:
 Or run it on [Repl.it](https://repl.it/):
 
 [![Run on Repl.it](https://repl.it/badge/github/socketio/chat-example)](https://repl.it/github/socketio/chat-example)
+
+
+used libraries
+
+https://pub.dev/packages/socket_io_client
+
+https://www.npmjs.com/package/ngx-socket-io
